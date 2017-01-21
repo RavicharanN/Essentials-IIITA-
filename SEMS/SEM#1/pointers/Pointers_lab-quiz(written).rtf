@@ -1,0 +1,80 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset0 Copperplate;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf0 Pointers Quiz 1:(ONLY VAGUE OR TRICKY QUESTIONS)\
+\
+1.\
+QUESTION:\
+	
+\f1 #include<stdio.h>\
+	int main()\
+	\{\
+		int i,*p,*q;\
+		i=p-q;\
+		/*\
+			\'97code\'97\
+		*/\
+	\
+	\}\
+
+\f0 WHEN DOES THE PROGRAMME MAKES SENSE ?\
+\
+ANS:\
+		When p and q are the elements of the array.\
+\
+EXPLANATION:\
+					It\'92s obvious that ((p-q)%size of datatype) will give the no. of elements between P\'92th and Q\'92th element. \
+\
+\
+2.\
+QUESTION:(MCQ)\
+\
+WHEN A IS AN ARRAY OF DEFINED SIZE ,IS THIS \'93
+\f1 \'915a[]++
+\f0 \'94 EXPRESSION VALID ? \
+\
+ANS:\
+		Yes.\
+\
+EXPLANATION:		\
+					That is another way of representing 
+\f1 a[5]++;
+\f0 					\
+\
+3.\
+QUESTION:\
+
+\f1      #include<stdio.h>\
+	  int main()\
+		\{\
+			int i,*p;\
+			p=i;\
+			/*\
+				\'97\'97code\'97\'97\
+			*/\
+			printf(\'93&i= %p\'94,&i);\
+\
+		\}
+\f0 \
+\
+HOW DO YOU MODIFY THE PRINTF STATEMENT SUCH THAT THERE WILL BE NO ERRORS IN THE PROGRAMME.\
+\
+ANS:\
+		
+\f1 printf(\'93&i= %p\'94,(void *)p);\
+\
+4.\
+\
+\
+\
+\
+\
+\
+
+\f0 \
+	    \
+}
