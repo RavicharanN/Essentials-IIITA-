@@ -1,6 +1,7 @@
 # Essentials-IIITA
  
-        This repository covers all the essentials for the programming course at IIIT Allahabad which include the topicwise solutions to the lab evaluations and weekly tasks provided in the lab. A few examples from other resources have also been added for better under-standing.
+## About
+         This repository covers all the essentials for the programming course at IIIT Allahabad which include the topicwise solutions to the lab evaluations and weekly tasks provided in the lab. A few examples from other resources have also been added for better under-standing.
        
 ## Contents of the Repo
 -----------------------
