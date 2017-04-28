@@ -13,7 +13,7 @@ This repository covers all the essentials for the programming course at IIIT All
   * [Recursions(LAB)](https://github.com/RavicharanN/Essentials-IIITA-/tree/master/SEMS/SEM2/Recursions/LAB)
   * [Time Complexity](https://github.com/RavicharanN/Essentials-IIITA-/tree/master/SEMS/SEM2/Time-complexity)
   * [Linked_list](https://github.com/RavicharanN/Essentials-IIITA-/tree/master/SEMS/SEM2/linked_list)
-  
+  * [Trees_DS](https://github.com/RavicharanN/Essentials-IIITA-/tree/master/SEMS/SEM2/Trees)
  
   
         
